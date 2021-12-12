@@ -2,7 +2,7 @@
 by [Filip Jerga](https://github.com/Jerga99)
 
 ## Course Content
-1. [Intro and App Setup](https://github.com/aindrajaya/learn-next-js-and-ethereum)
+1. [Intro and App Setup](https://github.com/aindrajaya/learn-next-js-and-ethereum/blob/main/docs/1-intro-and-app-setup.md)
 2. [Ethereum Essentials](https://github.com/aindrajaya/learn-next-js-and-ethereum)
 3. [Private Blockchain and Truffle](https://github.com/aindrajaya/learn-next-js-and-ethereum)
 4. [Transaction Details](https://github.com/aindrajaya/learn-next-js-and-ethereum)
